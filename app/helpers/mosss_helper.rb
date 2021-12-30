@@ -1,0 +1,2 @@
+module MosssHelper
+end

@@ -1,0 +1,2 @@
+class Moss < ApplicationRecord
+end
